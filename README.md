@@ -1,1 +1,22 @@
 # Record_and_AI_transcribe
+## Packages you have to install
+1. pyaudio (for recording)
+   
+   https://pypi.org/project/PyAudio/
+   
+3. keyboard (for key space pressing)
+   
+   https://pypi.org/project/keyboard/
+   
+4. openai-whisper (for transcribing sound to text)
+
+   Please check the github. There are additional and essential applications you have to install.
+
+   https://github.com/openai/whisper
+
+## Some problem I met
+1. scoop is gone (I use scoop to install ffmpeg, which is necessary for openai-whisper.)
+
+    Ans: Chat-GPT can help you
+
+2. don't forget to install the package in the workplace environment.
