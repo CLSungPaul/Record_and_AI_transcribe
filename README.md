@@ -1,4 +1,4 @@
-# Record_and_AI_transcribe
+# Sound Record and AI Transcribe
 ## Packages you have to install
 1. pyaudio (for recording)
    
