@@ -15,13 +15,18 @@ It is workable in .venv environment.
    Please check the github. There are additional and essential applications you have to install.
 
    https://github.com/openai/whisper
-
+   
+## beore you use
+1. set the workplace enviroment and make sure all the aforementioned packages installed.
+2. build the repository for the storage of records.
+3. start to use it.
+   
 ## Some problem I met
 1. scoop is gone (I use scoop to install ffmpeg, which is necessary for openai-whisper.)
 
     Ans: Chat-GPT can help you
 
 2. don't forget to install the package in the workplace environment.
-3. If you use VS code and its virtual environment, you can choose the environment from the sidebar.
+3. If you use VS code, you can choose the previous workplacce environment from the sidebar.
 
-   By this, you don't need to build and download the packages each time you want to rrun the codes.
+   By this, you don't need to build and download the packages every time you want to execute these codes.
