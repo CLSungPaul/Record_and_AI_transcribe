@@ -53,11 +53,13 @@ It is workable in .venv environment.
 
 (please read if you don't know how to find the previous workplace environment in VS Code)
 
-Activate the previous workplace environment.
+1. Activate the previous workplace environment.
 
 click the icon or button in the following order:
 
    Python icon on the sidebar >> GLOBAL ENVIRONMENTS >> Venv >> [the needed venv you named] >> Icon of "Open in Terminal"
+
+2. Start to use it.
    
 ## Some problem I met
 1. scoop is gone (I use scoop to install ffmpeg, which is necessary for openai-whisper.)
