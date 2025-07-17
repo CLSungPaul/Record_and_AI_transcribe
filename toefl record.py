@@ -100,5 +100,7 @@ if goSTT == "Y":
     recordText = result['text']
     print("\nText:")
     print(recordText)
-    wordlength = len(recordText.split(" "))
+    singleWords = recordText.split(" ")
+    singleWords = [item for item in singleWords if item]
+    wordlength = len(singleWords)
     print("\n"+str(wordlength)+" words")
