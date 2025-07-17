@@ -1,8 +1,8 @@
 #parameter you can change
 waitingTime = 5
 recordingTime = 10
-#path for records (need no mandarin in file path)
-path = "C:\\Users\\s9402\\Downloads\\托福準備\\托福說寫\\speaking questions and template\\task1 practice\\"
+#path for records
+path = "[repository for record storage]"
 
 # library for time
 import time
