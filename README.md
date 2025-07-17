@@ -1,4 +1,6 @@
 # Sound Record and AI Transcribe
+It is workable in .venv environment.
+
 ## Packages you have to install
 1. pyaudio (for recording)
    
@@ -20,3 +22,6 @@
     Ans: Chat-GPT can help you
 
 2. don't forget to install the package in the workplace environment.
+3. If you use VS code and its virtual environment, you can choose the environment from the sidebar.
+
+   By this, you don't need to build and download the packages each time you want to rrun the codes.
