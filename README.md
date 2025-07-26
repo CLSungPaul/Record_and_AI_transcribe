@@ -1,6 +1,8 @@
 # Sound Record and AI Transcribe
 It is workable in .venv environment.
 
+version control: python3.13.5 venv.
+
 ## Packages you have to install
 1. pyaudio (for recording)
    
